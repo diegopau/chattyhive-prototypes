@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Roboto-Regular.woff") format("woff"), 
+       url("../fonts/Roboto-Regular.ttf")  format("truetype"),
+       url("../fonts/Roboto-Regular.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Roboto-Bold.woff") format("woff"), 
+       url("../fonts/Roboto-Bold.ttf")  format("truetype"),
+       url("../fonts/Roboto-Bold.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Comfortaa-Bold";
+  src: url("../fonts/Comfortaa-Bold.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Comfortaa-Bold.woff") format("woff"), 
+       url("../fonts/Comfortaa-Bold.ttf")  format("truetype"),
+       url("../fonts/Comfortaa-Bold.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Comfortaa-Regular";
+  src: url("../fonts/Comfortaa-Regular.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Comfortaa-Regular.woff") format("woff"), 
+       url("../fonts/Comfortaa-Regular.ttf")  format("truetype"),
+       url("../fonts/Comfortaa-Regular.svg#svgFontName") format("svg");
+}
