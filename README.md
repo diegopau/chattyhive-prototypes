@@ -1,4 +1,4 @@
-chattyhive-prototipos
+chattyhive-prototypes
 =====================
 
 Prototypes for Android app and website widget developed using Justinmind Prototyper
