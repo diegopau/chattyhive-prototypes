@@ -1,12 +1,7 @@
 chattyhive-prototipos
 =====================
 
-Prototipos Android y otros para las interfaces de chattyhive  
+Prototypes for Android app and website widget developed using Justinmind Prototyper
 
-Heroku apps para verlos online:  
-
-http://ch-prototype-zanahoria.herokuapp.com/ ==> prototipo android futuro (lo que se podría llegar a hacer)  
-
-http://ch-prototype-mandarina.herokuapp.com/ ==> prototipo android presente (lo que se va a hacer)  
-
-http://ch-prototype-wg.herokuapp.com/ ==> widget  
+Android app: https://ch-prototype.herokuapp.com
+Website widget: https://ch-prototype-widget.herokuapp.com
